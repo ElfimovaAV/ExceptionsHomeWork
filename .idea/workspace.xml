@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46ed6d30-6ec4-492a-a2a9-e05d1b29d3f1" name="Changes" comment="add solution of home task 1">
-      <change afterPath="$PROJECT_DIR$/src/seminar2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminar2/tasks/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminar2/tasks/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminar2/tasks/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminar2/tasks/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar3/ConsoleReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar3/InfoReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar3/InfoWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar3/ParseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar3/UserGender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar3/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar3/UserInfoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar3/UserInfoWriter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Андрей/Documents/Разработчик/Java/exceptionsHW"
+    "last_opened_file_path": "C:/Users/Андрей/Documents/Разработчик/Java/OOPHomeWork"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,8 +67,33 @@
       <option name="project" value="LOCAL" />
       <updated>1682288858813</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add solution of home task 1">
+      <created>1682466559594</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682466559595</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add solution of home task 1">
+      <created>1682466579118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682466579118</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add solution of home task 1" />
